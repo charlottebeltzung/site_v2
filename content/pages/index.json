@@ -5,13 +5,14 @@
     {
       "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
       "type": "text",
-      "content": "Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Charlotte Beltzung © 2015-2026<br>Développement du site Gu",
+      "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site : Gu",
       "x": 8,
       "y": 1000,
       "width": 1080,
       "style": {
         "fontFamily": "Director Regular",
-        "fontSize": 10
+        "fontSize": 10,
+        "textAlign": "center"
       }
     }
   ]
