@@ -134,11 +134,21 @@
       "hoverSrc": "assets/images/77fad9e6f68b2826.png"
     },
     {
+      "id": "e24f943c-8fa3-4e21-8bde-70812ceb1d95",
+      "type": "image",
+      "src": "assets/images/368039ee886239a9.png",
+      "x": 168,
+      "y": 216,
+      "width": 176,
+      "aspectRatio": 1.0639074863055387,
+      "hoverSrc": "assets/images/b061b2b6d797082b.png"
+    },
+    {
       "id": "b92b303e-89dc-4830-81f2-93cc3a06e44d",
       "type": "image",
       "src": "assets/images/d7d5a9831f5c35f6.png",
-      "x": 536,
-      "y": 552,
+      "x": 416,
+      "y": 256,
       "width": 168,
       "aspectRatio": 1.0139275766016713,
       "hoverSrc": "assets/images/7c8d920f62d84755.png"
