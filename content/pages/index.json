@@ -82,6 +82,17 @@
       "style": {
         "fontSize": 20
       }
+    },
+    {
+      "id": "c559bb3c-1102-4b9a-ac41-a087baf4dfb1",
+      "type": "image",
+      "src": "assets/images/9d6dbead32c52e07.gif",
+      "x": 16,
+      "y": 720,
+      "width": 181,
+      "aspectRatio": 0.8829268292682927,
+      "hoverSrc": "assets/images/0d7e5f2da2beaaf6.gif",
+      "link": null
     }
   ],
   "style": {
