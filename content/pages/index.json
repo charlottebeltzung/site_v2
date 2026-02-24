@@ -3,19 +3,6 @@
   "title": "Home",
   "items": [
     {
-      "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
-      "type": "text",
-      "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site : Gu",
-      "x": 8,
-      "y": 1000,
-      "width": 1080,
-      "style": {
-        "fontFamily": "Director Regular",
-        "fontSize": 10,
-        "textAlign": "center"
-      }
-    },
-    {
       "id": "2cfce991-9e2d-4e38-96de-de9f708f6d59",
       "type": "text",
       "content": "charlotte beltzung",
@@ -93,6 +80,19 @@
       "aspectRatio": 0.8829268292682927,
       "hoverSrc": "assets/images/0d7e5f2da2beaaf6.gif",
       "link": null
+    },
+    {
+      "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
+      "type": "text",
+      "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site : Gu",
+      "x": 0,
+      "y": 1104,
+      "width": 1080,
+      "style": {
+        "fontFamily": "Director Regular",
+        "fontSize": 10,
+        "textAlign": "center"
+      }
     }
   ],
   "style": {
