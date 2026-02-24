@@ -12,8 +12,8 @@
     "size": 8
   },
   "colors": {
-    "background": "#ffffff",
-    "text": "#1a1a1a"
+    "background": "#fbe5eb",
+    "text": "#011892"
   },
   "typography": {
     "fontFamily": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
@@ -28,7 +28,7 @@
   },
   "audio": {
     "autoplay": false,
-    "muted": false,
+    "muted": true,
     "loop": false,
     "controls": true
   },
