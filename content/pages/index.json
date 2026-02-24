@@ -27,11 +27,66 @@
         "color": "#c7fcfe",
         "fontSize": 55
       }
+    },
+    {
+      "id": "745afadb-0566-4f76-8ca8-e0eec0679df7",
+      "type": "text",
+      "content": "⎠ shop ⎝",
+      "x": 640,
+      "y": 168,
+      "width": 80,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "ac7fbeaa-ce84-4cc2-b0da-001e57c50001",
+      "type": "text",
+      "content": "⎠ ･◡･ ⎝",
+      "x": 544,
+      "y": 168,
+      "width": 72,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "772bcdea-447b-4ffe-bf41-00d6d46cdddc",
+      "type": "text",
+      "content": "⎠ textes ⎝",
+      "x": 432,
+      "y": 168,
+      "width": 96,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "ddbe6708-f2ee-4a0d-8244-897e764ec7b5",
+      "type": "text",
+      "content": "⎠ cv ⎝",
+      "x": 352,
+      "y": 168,
+      "width": 56,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "b93ff44a-33c0-479b-9b1e-a15dd2b14f9c",
+      "type": "text",
+      "content": "⎠ infos ⎝",
+      "x": 248,
+      "y": 168,
+      "width": 88,
+      "style": {
+        "fontSize": 20
+      }
     }
   ],
   "style": {
     "colors": {
-      "text": "#011892"
+      "text": "#0432ff"
     },
     "typography": {
       "fontSize": 50,
