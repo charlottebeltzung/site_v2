@@ -13,7 +13,7 @@
   },
   "colors": {
     "background": "#fbe5eb",
-    "text": "#011892"
+    "text": "#0432ff"
   },
   "typography": {
     "fontFamily": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
@@ -39,5 +39,19 @@
       "weight": "400",
       "style": "normal"
     }
-  ]
+  ],
+  "guides": {
+    "vertical": [
+      {
+        "id": "bbdf560e-ded7-47d6-a34b-30517f9337a2",
+        "position": 240
+      }
+    ],
+    "horizontal": [
+      {
+        "id": "652dbe13-31dc-4001-9e88-f01fbde25d76",
+        "position": 96
+      }
+    ]
+  }
 }
