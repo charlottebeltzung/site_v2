@@ -104,16 +104,6 @@
       "hoverSrc": "assets/images/7e798b3d0cc16b9f.png"
     },
     {
-      "id": "65bcb4c2-51f1-4f7a-b206-49928372e57a",
-      "type": "image",
-      "src": "assets/images/4dd044551769eb13.png",
-      "x": 640,
-      "y": 744,
-      "width": 168,
-      "aspectRatio": 0.9844262295081967,
-      "hoverSrc": "assets/images/1abc0dc3e08cd17b.png"
-    },
-    {
       "id": "5e0be893-890f-403d-aab1-aa48977f5625",
       "type": "image",
       "src": "assets/images/5b84ac9915c5581a.png",
@@ -124,34 +114,44 @@
       "hoverSrc": "assets/images/3ee4d8bd1bd30654.png"
     },
     {
-      "id": "e64b8ef5-e0ba-4381-8392-84f131d91210",
+      "id": "fe94d052-5dcd-44ce-bd36-a68719e176a7",
       "type": "image",
-      "src": "assets/images/ea34027113ace7c2.png",
-      "x": 376,
-      "y": 720,
-      "width": 184,
-      "aspectRatio": 0.9821194941125163,
-      "hoverSrc": "assets/images/77fad9e6f68b2826.png"
-    },
-    {
-      "id": "e24f943c-8fa3-4e21-8bde-70812ceb1d95",
-      "type": "image",
-      "src": "assets/images/368039ee886239a9.png",
-      "x": 168,
-      "y": 216,
-      "width": 176,
+      "src": "assets/images/d185064d14bb7aa6.png",
+      "x": 104,
+      "y": 224,
+      "width": 288,
       "aspectRatio": 1.0639074863055387,
-      "hoverSrc": "assets/images/b061b2b6d797082b.png"
+      "hoverSrc": "assets/images/f5c5bf6e6a52b2b7.png"
     },
     {
       "id": "b92b303e-89dc-4830-81f2-93cc3a06e44d",
       "type": "image",
       "src": "assets/images/d7d5a9831f5c35f6.png",
-      "x": 416,
-      "y": 256,
+      "x": 808,
+      "y": 136,
       "width": 168,
       "aspectRatio": 1.0139275766016713,
       "hoverSrc": "assets/images/7c8d920f62d84755.png"
+    },
+    {
+      "id": "65bcb4c2-51f1-4f7a-b206-49928372e57a",
+      "type": "image",
+      "src": "assets/images/4dd044551769eb13.png",
+      "x": 464,
+      "y": 264,
+      "width": 168,
+      "aspectRatio": 0.9844262295081967,
+      "hoverSrc": "assets/images/1abc0dc3e08cd17b.png"
+    },
+    {
+      "id": "e64b8ef5-e0ba-4381-8392-84f131d91210",
+      "type": "image",
+      "src": "assets/images/ea34027113ace7c2.png",
+      "x": 368,
+      "y": 688,
+      "width": 184,
+      "aspectRatio": 0.9821194941125163,
+      "hoverSrc": "assets/images/77fad9e6f68b2826.png"
     }
   ],
   "style": {
