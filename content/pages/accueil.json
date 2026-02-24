@@ -71,17 +71,6 @@
       }
     },
     {
-      "id": "c559bb3c-1102-4b9a-ac41-a087baf4dfb1",
-      "type": "image",
-      "src": "assets/images/9d6dbead32c52e07.gif",
-      "x": 16,
-      "y": 720,
-      "width": 181,
-      "aspectRatio": 0.8829268292682927,
-      "hoverSrc": "assets/images/0d7e5f2da2beaaf6.gif",
-      "link": null
-    },
-    {
       "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
       "type": "text",
       "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site : Gu",
@@ -93,6 +82,36 @@
         "fontSize": 10,
         "textAlign": "center"
       }
+    },
+    {
+      "id": "5e0be893-890f-403d-aab1-aa48977f5625",
+      "type": "image",
+      "src": "assets/images/5b84ac9915c5581a.png",
+      "x": 520,
+      "y": 280,
+      "width": 104,
+      "aspectRatio": 0.7150442477876107,
+      "hoverSrc": "assets/images/3ee4d8bd1bd30654.png"
+    },
+    {
+      "id": "91fe99e6-6d4f-41de-aadf-05c41461fd2d",
+      "type": "image",
+      "src": "assets/images/8c93058701269018.png",
+      "x": 248,
+      "y": 280,
+      "width": 176,
+      "aspectRatio": 0.9891500904159132,
+      "hoverSrc": "assets/images/7e798b3d0cc16b9f.png"
+    },
+    {
+      "id": "f249815c-7544-4540-9f7b-efadf0999ac2",
+      "type": "image",
+      "src": "assets/images/0e8d9962ea12a6c5.png",
+      "x": 336,
+      "y": 456,
+      "width": 304,
+      "aspectRatio": 3.033457249070632,
+      "hoverSrc": "assets/images/d8ce12833bb15c5b.png"
     }
   ],
   "style": {
