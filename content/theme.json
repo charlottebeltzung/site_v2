@@ -1,7 +1,7 @@
 {
   "canvas": {
     "desktop": {
-      "width": 1440
+      "width": 1100
     },
     "mobile": {
       "width": 390,
@@ -31,5 +31,6 @@
     "muted": false,
     "loop": false,
     "controls": true
-  }
+  },
+  "fonts": []
 }
