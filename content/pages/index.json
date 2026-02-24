@@ -14,6 +14,28 @@
         "fontSize": 10,
         "textAlign": "center"
       }
+    },
+    {
+      "id": "2cfce991-9e2d-4e38-96de-de9f708f6d59",
+      "type": "text",
+      "content": "charlotte beltzung",
+      "x": 240,
+      "y": 96,
+      "width": 624,
+      "style": {
+        "fontWeight": 400,
+        "color": "#c7fcfe",
+        "fontSize": 55
+      }
     }
-  ]
+  ],
+  "style": {
+    "colors": {
+      "text": "#011892"
+    },
+    "typography": {
+      "fontSize": 50,
+      "fontFamily": "Director Regular"
+    }
+  }
 }
