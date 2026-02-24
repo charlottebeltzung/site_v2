@@ -112,6 +112,16 @@
       "width": 304,
       "aspectRatio": 3.033457249070632,
       "hoverSrc": "assets/images/d8ce12833bb15c5b.png"
+    },
+    {
+      "id": "65bcb4c2-51f1-4f7a-b206-49928372e57a",
+      "type": "image",
+      "src": "assets/images/4dd044551769eb13.png",
+      "x": 128,
+      "y": 232,
+      "width": 128,
+      "aspectRatio": 0.9844262295081967,
+      "hoverSrc": "assets/images/1abc0dc3e08cd17b.png"
     }
   ],
   "style": {
