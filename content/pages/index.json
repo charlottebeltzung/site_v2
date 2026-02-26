@@ -193,6 +193,26 @@
       "style": {
         "fontSize": 20
       }
+    },
+    {
+      "id": "344501e2-637c-48f3-b51e-4da12197b968",
+      "type": "image",
+      "src": "assets/images/8adf5beffcd3bb0d.png",
+      "x": 72,
+      "y": 104,
+      "width": 128,
+      "aspectRatio": 0.6488413547237076,
+      "hoverSrc": "assets/images/2231b42812bc0bb3.png"
+    },
+    {
+      "id": "2a97a05c-0b4a-4922-881b-4a4889eb08a1",
+      "type": "image",
+      "src": "assets/images/06c100a81f025ae7.png",
+      "x": 856,
+      "y": 568,
+      "width": 168,
+      "aspectRatio": 1.0127887788778878,
+      "hoverSrc": "assets/images/ae5133d62c38db6f.png"
     }
   ],
   "style": {
