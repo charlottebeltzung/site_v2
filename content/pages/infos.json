@@ -117,6 +117,22 @@
       "x": 240,
       "y": 224,
       "width": 632
+    },
+    {
+      "id": "73fa4f46-989c-44c0-8c0f-3113e9ea10c7",
+      "type": "text",
+      "content": "New text",
+      "x": 352,
+      "y": 100,
+      "width": 400
+    },
+    {
+      "id": "ffd6e452-ab06-471d-b7d4-1942c27e1251",
+      "type": "text",
+      "content": "Démarche artistique<br>Mon travail artistique est guidé par des rencontres avec des humain·es,<br>des paysages, des végétaux, des animaux ou des pierres.<br>C’est un travail physique, solide, qui se nourrit d’expériences corporelles vécues.<br>L’écriture de fictions se mêle aux matières minérales et organiques que j’utilise<br>pour créer des formes sculptées. La cuisine et le travail sonore prennent parfois<br>part au groupe. Ces ensembles s’associent et s’activent lors d’évènements,<br>de performances, d’expositions ou de moments de co-création avec des publics.<br>Biographie<br>Charlotte Beltzung est diplômée de l’École Européenne Supérieure de l’Image<br>d’Angoulême. Elle s’installe à Rennes en 2018 où elle développe une pratique<br>artistique autour des techniques céramiques et des rencontres avec les publics.<br>En 2021 elle crée La Guerrière avec trois amies artistes, une galerie d’expositions<br>dans sa maison à Rennes.<br>Elle a récemment présenté son travail lors du festival Bien Urbain à Besançon et<br>au centre d’Art Passerelle à Brest lors d’une exposition collective avec l’association<br>bretonne Setu.<strong><br><br>Artist statement</strong><br>\nMy work is guided by encounters with human beings, landscapes, plants, animals, or stones.<br>\nIt is a physical, solid work, nourished by lived bodily experiences.<br>\nThe writing of fictions intertwines with the mineral and organic materials I use<br>\nto create sculpted forms. Cooking and sound work sometimes<br>\ntake part in the group. These ensembles come together and are activated during events,<br>\nperformances, exhibitions, or moments of co-creation with audiences.&nbsp;<strong><br><br>Biography</strong><br>\nCharlotte Beltzung graduated from the École Européenne Supérieure de l’Image<br>\nin Angoulême. She settled in Rennes in 2018 where she develops an artistic practice<br>\naround ceramic techniques and encounters with audiences.<br>\nIn 2021 she created La Guerrière with three artist friends, an exhibition gallery<br>\nin her house in Rennes.<br>\nShe recently presented her work at the Bien Urbain festival in Besançon and<br>\nat the Art center Passerelle.<br>",
+      "x": 240,
+      "y": 936,
+      "width": 632
     }
   ],
   "style": {
