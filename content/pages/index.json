@@ -16,28 +16,6 @@
       }
     },
     {
-      "id": "745afadb-0566-4f76-8ca8-e0eec0679df7",
-      "type": "text",
-      "content": "⎠ shop ⎝",
-      "x": 640,
-      "y": 168,
-      "width": 80,
-      "style": {
-        "fontSize": 20
-      }
-    },
-    {
-      "id": "ac7fbeaa-ce84-4cc2-b0da-001e57c50001",
-      "type": "text",
-      "content": "⎠ ･◡･ ⎝",
-      "x": 544,
-      "y": 168,
-      "width": 72,
-      "style": {
-        "fontSize": 20
-      }
-    },
-    {
       "id": "772bcdea-447b-4ffe-bf41-00d6d46cdddc",
       "type": "text",
       "content": "⎠ textes ⎝",
@@ -182,6 +160,39 @@
       "width": 200,
       "aspectRatio": 1.1150023663038333,
       "hoverSrc": "assets/images/415221df39b149b3.png"
+    },
+    {
+      "id": "096b9259-0c51-4e12-8662-7a31d0b88d48",
+      "type": "text",
+      "content": "⎠ éditions ⎝",
+      "x": 552,
+      "y": 168,
+      "width": 112,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "ac7fbeaa-ce84-4cc2-b0da-001e57c50001",
+      "type": "text",
+      "content": "⎠ ･◡･ ⎝",
+      "x": 696,
+      "y": 168,
+      "width": 72,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "745afadb-0566-4f76-8ca8-e0eec0679df7",
+      "type": "text",
+      "content": "⎠ shop ⎝",
+      "x": 800,
+      "y": 168,
+      "width": 80,
+      "style": {
+        "fontSize": 20
+      }
     }
   ],
   "style": {
