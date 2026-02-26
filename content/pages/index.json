@@ -16,39 +16,6 @@
       }
     },
     {
-      "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
-      "type": "text",
-      "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site : Gu",
-      "x": 0,
-      "y": 1104,
-      "width": 1080,
-      "style": {
-        "fontFamily": "Director Regular",
-        "fontSize": 10,
-        "textAlign": "center"
-      }
-    },
-    {
-      "id": "f249815c-7544-4540-9f7b-efadf0999ac2",
-      "type": "image",
-      "src": "assets/images/0e8d9962ea12a6c5.png",
-      "x": 384,
-      "y": 952,
-      "width": 304,
-      "aspectRatio": 3.033457249070632,
-      "hoverSrc": "assets/images/d8ce12833bb15c5b.png"
-    },
-    {
-      "id": "91fe99e6-6d4f-41de-aadf-05c41461fd2d",
-      "type": "image",
-      "src": "assets/images/8c93058701269018.png",
-      "x": 832,
-      "y": 856,
-      "width": 176,
-      "aspectRatio": 0.9891500904159132,
-      "hoverSrc": "assets/images/7e798b3d0cc16b9f.png"
-    },
-    {
       "id": "b92b303e-89dc-4830-81f2-93cc3a06e44d",
       "type": "image",
       "src": "assets/images/d7d5a9831f5c35f6.png",
@@ -135,16 +102,6 @@
       "hoverSrc": "assets/images/2231b42812bc0bb3.png"
     },
     {
-      "id": "2a97a05c-0b4a-4922-881b-4a4889eb08a1",
-      "type": "image",
-      "src": "assets/images/06c100a81f025ae7.png",
-      "x": 856,
-      "y": 568,
-      "width": 168,
-      "aspectRatio": 1.0127887788778878,
-      "hoverSrc": "assets/images/ae5133d62c38db6f.png"
-    },
-    {
       "id": "5fe44d20-ec77-45d3-9b34-711eb3a9e10d",
       "type": "image",
       "src": "assets/images/b55776100e3033c4.png",
@@ -153,26 +110,6 @@
       "width": 160,
       "aspectRatio": 0.6194661458333334,
       "hoverSrc": "assets/images/ea244d6731e86ffb.png"
-    },
-    {
-      "id": "8095ab30-798c-4d25-96df-bf3b1e077636",
-      "type": "image",
-      "src": "assets/images/2e9f4b2ea1cacf44.png",
-      "x": 328,
-      "y": 256,
-      "width": 144,
-      "aspectRatio": 1.0295794725588026,
-      "hoverSrc": "assets/images/25e3aa0133b4276f.png"
-    },
-    {
-      "id": "65bcb4c2-51f1-4f7a-b206-49928372e57a",
-      "type": "image",
-      "src": "assets/images/4dd044551769eb13.png",
-      "x": 432,
-      "y": 456,
-      "width": 168,
-      "aspectRatio": 0.9844262295081967,
-      "hoverSrc": "assets/images/1abc0dc3e08cd17b.png"
     },
     {
       "id": "fe94d052-5dcd-44ce-bd36-a68719e176a7",
@@ -185,44 +122,108 @@
       "hoverSrc": "assets/images/f5c5bf6e6a52b2b7.png"
     },
     {
-      "id": "5e0be893-890f-403d-aab1-aa48977f5625",
-      "type": "image",
-      "src": "assets/images/5b84ac9915c5581a.png",
-      "x": 192,
-      "y": 872,
-      "width": 104,
-      "aspectRatio": 0.7150442477876107,
-      "hoverSrc": "assets/images/3ee4d8bd1bd30654.png"
+      "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
+      "type": "text",
+      "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site pour faire le site : Gu",
+      "x": 0,
+      "y": 1168,
+      "width": 1080,
+      "style": {
+        "fontFamily": "Director Regular",
+        "fontSize": 10,
+        "textAlign": "center"
+      },
+      "footer": true
     },
     {
-      "id": "cdb64701-e590-47ec-b477-6d836f34c813",
+      "id": "f249815c-7544-4540-9f7b-efadf0999ac2",
       "type": "image",
-      "src": "assets/images/6049cd9b9183f613.png",
-      "x": 616,
-      "y": 760,
-      "width": 160,
-      "aspectRatio": 1.1150023663038333,
-      "hoverSrc": "assets/images/415221df39b149b3.png"
+      "src": "assets/images/0e8d9962ea12a6c5.png",
+      "x": 384,
+      "y": 1024,
+      "width": 304,
+      "aspectRatio": 3.033457249070632,
+      "hoverSrc": "assets/images/d8ce12833bb15c5b.png"
     },
     {
       "id": "e64b8ef5-e0ba-4381-8392-84f131d91210",
       "type": "image",
       "src": "assets/images/ea34027113ace7c2.png",
-      "x": 336,
-      "y": 688,
+      "x": 328,
+      "y": 728,
       "width": 208,
       "aspectRatio": 0.9821194941125163,
       "hoverSrc": "assets/images/77fad9e6f68b2826.png"
     },
     {
+      "id": "5e0be893-890f-403d-aab1-aa48977f5625",
+      "type": "image",
+      "src": "assets/images/5b84ac9915c5581a.png",
+      "x": 168,
+      "y": 928,
+      "width": 104,
+      "aspectRatio": 0.7150442477876107,
+      "hoverSrc": "assets/images/3ee4d8bd1bd30654.png"
+    },
+    {
+      "id": "91fe99e6-6d4f-41de-aadf-05c41461fd2d",
+      "type": "image",
+      "src": "assets/images/8c93058701269018.png",
+      "x": 816,
+      "y": 880,
+      "width": 176,
+      "aspectRatio": 0.9891500904159132,
+      "hoverSrc": "assets/images/7e798b3d0cc16b9f.png"
+    },
+    {
+      "id": "cdb64701-e590-47ec-b477-6d836f34c813",
+      "type": "image",
+      "src": "assets/images/6049cd9b9183f613.png",
+      "x": 600,
+      "y": 808,
+      "width": 160,
+      "aspectRatio": 1.1150023663038333,
+      "hoverSrc": "assets/images/415221df39b149b3.png"
+    },
+    {
+      "id": "2a97a05c-0b4a-4922-881b-4a4889eb08a1",
+      "type": "image",
+      "src": "assets/images/06c100a81f025ae7.png",
+      "x": 888,
+      "y": 520,
+      "width": 168,
+      "aspectRatio": 1.0127887788778878,
+      "hoverSrc": "assets/images/ae5133d62c38db6f.png"
+    },
+    {
       "id": "8f64b403-0066-46c1-88e3-da09187cb82a",
       "type": "image",
       "src": "assets/images/e087e92d8fcd3c89.png",
-      "x": 616,
-      "y": 240,
+      "x": 584,
+      "y": 280,
       "width": 272,
       "aspectRatio": 0.558803061934586,
       "hoverSrc": "assets/images/d9fd8f414fcd2d4a.png"
+    },
+    {
+      "id": "8095ab30-798c-4d25-96df-bf3b1e077636",
+      "type": "image",
+      "src": "assets/images/2e9f4b2ea1cacf44.png",
+      "x": 336,
+      "y": 328,
+      "width": 144,
+      "aspectRatio": 1.0295794725588026,
+      "hoverSrc": "assets/images/25e3aa0133b4276f.png"
+    },
+    {
+      "id": "65bcb4c2-51f1-4f7a-b206-49928372e57a",
+      "type": "image",
+      "src": "assets/images/4dd044551769eb13.png",
+      "x": 432,
+      "y": 488,
+      "width": 168,
+      "aspectRatio": 0.9844262295081967,
+      "hoverSrc": "assets/images/1abc0dc3e08cd17b.png"
     }
   ],
   "style": {
