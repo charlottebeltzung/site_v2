@@ -1,5 +1,14 @@
 {
   "slug": "infos",
   "title": "infos",
-  "items": []
+  "items": [
+    {
+      "id": "1ae837b5-69f4-4714-b22a-9ce844a7e69e",
+      "type": "text",
+      "content": "New text",
+      "x": 352,
+      "y": 100,
+      "width": 400
+    }
+  ]
 }
