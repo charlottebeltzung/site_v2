@@ -1,5 +1,119 @@
 {
   "slug": "hehe",
   "title": "---",
-  "items": []
+  "items": [
+    {
+      "id": "4d23c36c-e808-40d8-a42e-45c67a1a9d8d",
+      "type": "text",
+      "content": "charlotte beltzung",
+      "x": 240,
+      "y": 88,
+      "width": 624,
+      "style": {
+        "fontWeight": 400,
+        "color": "#c7fcfe",
+        "fontSize": 55
+      },
+      "link": {
+        "type": "page",
+        "target": "index"
+      }
+    },
+    {
+      "id": "eb0d5ce6-ed9b-4221-8da7-89fb1a8141b8",
+      "type": "text",
+      "content": "⎠ infos ⎝",
+      "x": 240,
+      "y": 160,
+      "width": 88,
+      "style": {
+        "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "infos"
+      }
+    },
+    {
+      "id": "f095ed84-1e76-48b3-ad42-defcc7d43971",
+      "type": "text",
+      "content": "⎠ cv ⎝",
+      "x": 336,
+      "y": 160,
+      "width": 56,
+      "style": {
+        "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "cv"
+      }
+    },
+    {
+      "id": "8aa15422-b7f9-4cea-a432-8097400d8db9",
+      "type": "text",
+      "content": "⎠ textes ⎝",
+      "x": 408,
+      "y": 160,
+      "width": 96,
+      "style": {
+        "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "textes"
+      }
+    },
+    {
+      "id": "a8571564-ddfe-4793-a215-d079beb28f08",
+      "type": "text",
+      "content": "⎠ éditions ⎝",
+      "x": 512,
+      "y": 160,
+      "width": 112,
+      "style": {
+        "fontSize": 17,
+        "color": "#0432ff"
+      },
+      "link": {
+        "type": "page",
+        "target": "editions"
+      }
+    },
+    {
+      "id": "f26a99bf-be09-4949-856a-062b5a83117e",
+      "type": "text",
+      "content": "⎠ ･◡･ ⎝",
+      "x": 632,
+      "y": 160,
+      "width": 72,
+      "style": {
+        "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "hehe"
+      }
+    },
+    {
+      "id": "265ebc78-d34f-4611-a3ff-a58c85114818",
+      "type": "text",
+      "content": "⎠ shop ⎝",
+      "x": 720,
+      "y": 160,
+      "width": 80,
+      "style": {
+        "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "shop"
+      }
+    }
+  ],
+  "style": {
+    "typography": {
+      "fontFamily": "Director Regular"
+    }
+  }
 }
