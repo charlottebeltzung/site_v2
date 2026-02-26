@@ -197,45 +197,61 @@
       "id": "772bcdea-447b-4ffe-bf41-00d6d46cdddc",
       "type": "text",
       "content": "⎠ textes ⎝",
-      "x": 416,
+      "x": 408,
       "y": 160,
       "width": 96,
       "style": {
         "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "textes"
       }
     },
     {
       "id": "096b9259-0c51-4e12-8662-7a31d0b88d48",
       "type": "text",
       "content": "⎠ éditions ⎝",
-      "x": 528,
+      "x": 512,
       "y": 160,
       "width": 112,
       "style": {
         "fontSize": 17,
         "color": "#0432ff"
+      },
+      "link": {
+        "type": "page",
+        "target": "editions"
       }
     },
     {
       "id": "ac7fbeaa-ce84-4cc2-b0da-001e57c50001",
       "type": "text",
       "content": "⎠ ･◡･ ⎝",
-      "x": 664,
+      "x": 632,
       "y": 160,
       "width": 72,
       "style": {
         "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "hehe"
       }
     },
     {
       "id": "745afadb-0566-4f76-8ca8-e0eec0679df7",
       "type": "text",
       "content": "⎠ shop ⎝",
-      "x": 760,
+      "x": 720,
       "y": 160,
       "width": 80,
       "style": {
         "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "shop"
       }
     }
   ],
