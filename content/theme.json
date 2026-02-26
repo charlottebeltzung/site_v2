@@ -38,6 +38,12 @@
       "src": "assets/fonts/1771945637785-Latitude-Regular.ttf",
       "weight": "400",
       "style": "normal"
+    },
+    {
+      "family": "Latitude Regular",
+      "src": "assets/fonts/1772125392711-Latitude-Regular.ttf",
+      "weight": "400",
+      "style": "normal"
     }
   ],
   "guides": {
