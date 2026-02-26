@@ -37,7 +37,7 @@
       "y": 168,
       "width": 88,
       "style": {
-        "fontSize": 20
+        "fontSize": 17
       },
       "link": {
         "type": "page",
@@ -52,7 +52,11 @@
       "y": 168,
       "width": 56,
       "style": {
-        "fontSize": 20
+        "fontSize": 17
+      },
+      "link": {
+        "type": "page",
+        "target": "cv"
       }
     },
     {
@@ -63,7 +67,7 @@
       "y": 168,
       "width": 96,
       "style": {
-        "fontSize": 20
+        "fontSize": 17
       }
     },
     {
@@ -74,7 +78,8 @@
       "y": 168,
       "width": 112,
       "style": {
-        "fontSize": 20
+        "fontSize": 17,
+        "color": "#0432ff"
       }
     },
     {
@@ -85,7 +90,7 @@
       "y": 168,
       "width": 72,
       "style": {
-        "fontSize": 20
+        "fontSize": 17
       }
     },
     {
@@ -96,7 +101,7 @@
       "y": 168,
       "width": 80,
       "style": {
-        "fontSize": 20
+        "fontSize": 17
       }
     },
     {
