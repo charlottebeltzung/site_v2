@@ -16,39 +16,6 @@
       }
     },
     {
-      "id": "772bcdea-447b-4ffe-bf41-00d6d46cdddc",
-      "type": "text",
-      "content": "⎠ textes ⎝",
-      "x": 432,
-      "y": 168,
-      "width": 96,
-      "style": {
-        "fontSize": 20
-      }
-    },
-    {
-      "id": "ddbe6708-f2ee-4a0d-8244-897e764ec7b5",
-      "type": "text",
-      "content": "⎠ cv ⎝",
-      "x": 352,
-      "y": 168,
-      "width": 56,
-      "style": {
-        "fontSize": 20
-      }
-    },
-    {
-      "id": "b93ff44a-33c0-479b-9b1e-a15dd2b14f9c",
-      "type": "text",
-      "content": "⎠ infos ⎝",
-      "x": 248,
-      "y": 168,
-      "width": 88,
-      "style": {
-        "fontSize": 20
-      }
-    },
-    {
       "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
       "type": "text",
       "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site : Gu",
@@ -162,10 +129,43 @@
       "hoverSrc": "assets/images/415221df39b149b3.png"
     },
     {
+      "id": "b93ff44a-33c0-479b-9b1e-a15dd2b14f9c",
+      "type": "text",
+      "content": "⎠ infos ⎝",
+      "x": 240,
+      "y": 168,
+      "width": 88,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "ddbe6708-f2ee-4a0d-8244-897e764ec7b5",
+      "type": "text",
+      "content": "⎠ cv ⎝",
+      "x": 344,
+      "y": 168,
+      "width": 56,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
+      "id": "772bcdea-447b-4ffe-bf41-00d6d46cdddc",
+      "type": "text",
+      "content": "⎠ textes ⎝",
+      "x": 424,
+      "y": 168,
+      "width": 96,
+      "style": {
+        "fontSize": 20
+      }
+    },
+    {
       "id": "096b9259-0c51-4e12-8662-7a31d0b88d48",
       "type": "text",
       "content": "⎠ éditions ⎝",
-      "x": 552,
+      "x": 544,
       "y": 168,
       "width": 112,
       "style": {
@@ -176,7 +176,7 @@
       "id": "ac7fbeaa-ce84-4cc2-b0da-001e57c50001",
       "type": "text",
       "content": "⎠ ･◡･ ⎝",
-      "x": 696,
+      "x": 688,
       "y": 168,
       "width": 72,
       "style": {
@@ -187,7 +187,7 @@
       "id": "745afadb-0566-4f76-8ca8-e0eec0679df7",
       "type": "text",
       "content": "⎠ shop ⎝",
-      "x": 800,
+      "x": 792,
       "y": 168,
       "width": 80,
       "style": {
