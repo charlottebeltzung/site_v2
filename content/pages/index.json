@@ -112,16 +112,6 @@
       "hoverSrc": "assets/images/ea244d6731e86ffb.png"
     },
     {
-      "id": "fe94d052-5dcd-44ce-bd36-a68719e176a7",
-      "type": "image",
-      "src": "assets/images/d185064d14bb7aa6.png",
-      "x": 16,
-      "y": 568,
-      "width": 288,
-      "aspectRatio": 1.0639074863055387,
-      "hoverSrc": "assets/images/f5c5bf6e6a52b2b7.png"
-    },
-    {
       "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
       "type": "text",
       "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site pour faire le site : Gu",
@@ -186,26 +176,6 @@
       "hoverSrc": "assets/images/415221df39b149b3.png"
     },
     {
-      "id": "2a97a05c-0b4a-4922-881b-4a4889eb08a1",
-      "type": "image",
-      "src": "assets/images/06c100a81f025ae7.png",
-      "x": 888,
-      "y": 520,
-      "width": 168,
-      "aspectRatio": 1.0127887788778878,
-      "hoverSrc": "assets/images/ae5133d62c38db6f.png"
-    },
-    {
-      "id": "8f64b403-0066-46c1-88e3-da09187cb82a",
-      "type": "image",
-      "src": "assets/images/e087e92d8fcd3c89.png",
-      "x": 584,
-      "y": 280,
-      "width": 272,
-      "aspectRatio": 0.558803061934586,
-      "hoverSrc": "assets/images/d9fd8f414fcd2d4a.png"
-    },
-    {
       "id": "8095ab30-798c-4d25-96df-bf3b1e077636",
       "type": "image",
       "src": "assets/images/2e9f4b2ea1cacf44.png",
@@ -224,6 +194,36 @@
       "width": 168,
       "aspectRatio": 0.9844262295081967,
       "hoverSrc": "assets/images/1abc0dc3e08cd17b.png"
+    },
+    {
+      "id": "8f64b403-0066-46c1-88e3-da09187cb82a",
+      "type": "image",
+      "src": "assets/images/e087e92d8fcd3c89.png",
+      "x": 600,
+      "y": 224,
+      "width": 272,
+      "aspectRatio": 0.558803061934586,
+      "hoverSrc": "assets/images/d9fd8f414fcd2d4a.png"
+    },
+    {
+      "id": "fe94d052-5dcd-44ce-bd36-a68719e176a7",
+      "type": "image",
+      "src": "assets/images/d185064d14bb7aa6.png",
+      "x": 0,
+      "y": 584,
+      "width": 288,
+      "aspectRatio": 1.0639074863055387,
+      "hoverSrc": "assets/images/f5c5bf6e6a52b2b7.png"
+    },
+    {
+      "id": "2a97a05c-0b4a-4922-881b-4a4889eb08a1",
+      "type": "image",
+      "src": "assets/images/06c100a81f025ae7.png",
+      "x": 824,
+      "y": 608,
+      "width": 168,
+      "aspectRatio": 1.0127887788778878,
+      "hoverSrc": "assets/images/ae5133d62c38db6f.png"
     }
   ],
   "style": {
