@@ -234,5 +234,31 @@
       "fontSize": 50,
       "fontFamily": "Director Regular"
     }
+  },
+  "mobile": {
+    "overrides": {},
+    "order": [
+      "2cfce991-9e2d-4e38-96de-de9f708f6d59",
+      "b93ff44a-33c0-479b-9b1e-a15dd2b14f9c",
+      "ddbe6708-f2ee-4a0d-8244-897e764ec7b5",
+      "772bcdea-447b-4ffe-bf41-00d6d46cdddc",
+      "096b9259-0c51-4e12-8662-7a31d0b88d48",
+      "ac7fbeaa-ce84-4cc2-b0da-001e57c50001",
+      "745afadb-0566-4f76-8ca8-e0eec0679df7",
+      "5fe44d20-ec77-45d3-9b34-711eb3a9e10d",
+      "344501e2-637c-48f3-b51e-4da12197b968",
+      "8f64b403-0066-46c1-88e3-da09187cb82a",
+      "b92b303e-89dc-4830-81f2-93cc3a06e44d",
+      "8095ab30-798c-4d25-96df-bf3b1e077636",
+      "65bcb4c2-51f1-4f7a-b206-49928372e57a",
+      "fe94d052-5dcd-44ce-bd36-a68719e176a7",
+      "2a97a05c-0b4a-4922-881b-4a4889eb08a1",
+      "e64b8ef5-e0ba-4381-8392-84f131d91210",
+      "cdb64701-e590-47ec-b477-6d836f34c813",
+      "5e0be893-890f-403d-aab1-aa48977f5625",
+      "91fe99e6-6d4f-41de-aadf-05c41461fd2d",
+      "f249815c-7544-4540-9f7b-efadf0999ac2",
+      "305d932a-0a5e-439e-b826-c49a116b7b3f"
+    ]
   }
 }
