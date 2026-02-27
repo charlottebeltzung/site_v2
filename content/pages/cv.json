@@ -137,10 +137,18 @@
     {
       "id": "8487069f-d791-4511-b7d9-399da75ee9d8",
       "type": "text",
-      "content": "<b>Bourses / <i>Grants</i></b><br>• Aide à la création<br>accordée par la DRAC Bretagne, 2025<br>• Soutien à la création,<br>accordée par la ville de Rennes, 2024<br>• Soutien aux jeunes plasticiens,<br>accordée par la Région Bretagne, 2023<br>• Aide à l'installation,<br>accordée par la DRAC Bretagne, 2021",
+      "content": "<b>Bourses / <i>Grants</i></b><br>• Aide à la création<br>accordée par la DRAC Bretagne, 2025<br>• Soutien à la création,<br>accordée par la ville de Rennes, 2024<br>• Soutien aux jeunes plasticiens,<br>accordée par la Région Bretagne,&nbsp;<br>soutenue par l'association Setu, 2023<br>• Aide à l'installation,<br>accordée par la DRAC Bretagne, 2021",
       "x": 32,
-      "y": 512,
+      "y": 528,
       "width": 320
+    },
+    {
+      "id": "bda91ccc-11a6-4534-8949-81583f5c1d57",
+      "type": "text",
+      "content": "<u>2023</u><br>• Lecture, invitée par la Maison de la Poésie de Rennes, octobre 2023.<br>• <i>La grande danse et le grand feu</i>, ouverture de Bien Urbain, à Besançon (FR),<br>festival d’art dans (et avec) l’espace public, évènement créé en collaboration avec Camille Bondon, juin 2023.<br><u>https://juste-ici.fr/fr/archives/</u><br>• Résidence Artiste plasticien·ne au lycée,&nbsp;<br>avec la DREAC Bourgogne-Franche-Comté et l’association Juste-Ici,<br>de janvier à juin 2023.<br>• Résidence de recherche d’une semaine avec le collectif La Guerrière,<br>invitées par le Phakt, centre culturel Colombier à Rennes, février 2023.&nbsp;<br><u>https://www.phakt.fr</u><br>• Résidence de recherche d’une semaine à Annoville (FR), invitée par l’association Alt X, janvier 2023.&nbsp;",
+      "x": 448,
+      "y": 1008,
+      "width": 624
     }
   ],
   "style": {
