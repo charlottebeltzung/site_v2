@@ -123,5 +123,18 @@
     "typography": {
       "fontFamily": "Enby Gertrude roman"
     }
+  },
+  "mobile": {
+    "overrides": {},
+    "order": [
+      "4d23c36c-e808-40d8-a42e-45c67a1a9d8d",
+      "eb0d5ce6-ed9b-4221-8da7-89fb1a8141b8",
+      "f095ed84-1e76-48b3-ad42-defcc7d43971",
+      "8aa15422-b7f9-4cea-a432-8097400d8db9",
+      "a8571564-ddfe-4793-a215-d079beb28f08",
+      "f26a99bf-be09-4949-856a-062b5a83117e",
+      "265ebc78-d34f-4611-a3ff-a58c85114818",
+      "dcd12bd8-162f-43dd-8f99-336e13c8fcdc"
+    ]
   }
 }
