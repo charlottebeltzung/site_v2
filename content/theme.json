@@ -44,6 +44,12 @@
       "src": "assets/fonts/1772125392711-Latitude-Regular.ttf",
       "weight": "400",
       "style": "normal"
+    },
+    {
+      "family": "Enby Gertrude roman",
+      "src": "assets/fonts/1772200416760-Enby_Gertrude_roman.ttf",
+      "weight": "400",
+      "style": "normal"
     }
   ],
   "guides": {
