@@ -109,6 +109,14 @@
         "type": "page",
         "target": "shop"
       }
+    },
+    {
+      "id": "dcd12bd8-162f-43dd-8f99-336e13c8fcdc",
+      "type": "text",
+      "content": "Valentin Godard-Paillat<br>Lucie Desaubliaux<br>Club Superette<br>Maxime Callen&nbsp;<br>Alix Desaubliaux<br>Ava Naba<br>Carin Klonowski<br>Lucie Malbéqui<br>Ines Dobelle<br>Consider to be Allies<br>Manon Riet&nbsp;<br>Thomas Portier<br>Adeline Schöne<br>Camille Bondon<br>Jonah Gebka<br><br><br>",
+      "x": 240,
+      "y": 232,
+      "width": 432
     }
   ],
   "style": {
