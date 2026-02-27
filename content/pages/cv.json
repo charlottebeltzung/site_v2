@@ -117,6 +117,14 @@
       "x": 32,
       "y": 232,
       "width": 400
+    },
+    {
+      "id": "8487069f-d791-4511-b7d9-399da75ee9d8",
+      "type": "text",
+      "content": "<b>Bourses / <i>Grants</i></b><br>• Aide à la création<br>accordée par la DRAC Bretagne, 2025<br>• Soutien à la création,<br>accordée par la ville de Rennes, 2024<br>• Soutien aux jeunes plasticiens,<br>accordée par la Région Bretagne, 2023<br>• Aide à l'installation,<br>accordée par la DRAC Bretagne, 2021",
+      "x": 32,
+      "y": 656,
+      "width": 320
     }
   ],
   "style": {
