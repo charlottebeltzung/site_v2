@@ -179,5 +179,25 @@
     "typography": {
       "fontFamily": "Enby Gertrude roman"
     }
+  },
+  "mobile": {
+    "overrides": {},
+    "order": [
+      "2cc5fef4-89ea-48f6-93a8-1f56bddb6f81",
+      "42a2c5fa-b97c-4eea-b8ba-d12757b07caa",
+      "de0d3e79-6544-42d0-bec0-157397558f63",
+      "ccb8691e-131b-4f30-b1df-b6d85e571bf4",
+      "9943d18d-3114-4c1a-b66a-ef0ff7b87259",
+      "087cd68b-f805-4e29-9bda-bc42ae920fb1",
+      "eea22ce2-0184-48e6-a7b7-9dbbe16d11a4",
+      "0b41115d-5765-4b57-92f8-2ec48ddbccd6",
+      "8487069f-d791-4511-b7d9-399da75ee9d8",
+      "e41c2aa8-e7c5-40b8-a9c8-313bc682b489",
+      "76487c47-ed69-4119-93c5-f2900bcb5dcd",
+      "92d677c0-6b99-4ad6-8bdc-74ef587dbbe3",
+      "bda91ccc-11a6-4534-8949-81583f5c1d57",
+      "bdbd0923-f624-43ee-be36-c31ed576a48c",
+      "f585951c-c55e-402f-88ce-dedfe774fc95"
+    ]
   }
 }
