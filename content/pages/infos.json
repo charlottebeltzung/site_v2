@@ -131,7 +131,8 @@
       "width": 632,
       "style": {
         "color": "#932092",
-        "fontFamily": "Enby Gertrude roman"
+        "fontFamily": "Enby Gertrude roman",
+        "fontSize": 15
       }
     },
     {
