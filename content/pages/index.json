@@ -35,12 +35,12 @@
     {
       "id": "305d932a-0a5e-439e-b826-c49a116b7b3f",
       "type": "text",
-      "content": "Charlotte Beltzung © 2015-2026<br>Typo : <i>Degheest</i> by Ange Degheest, Camille Depalle, Eugénie Bidaut, Luna Delabre, Mandy Elbé, May Jolivet, Oriane Charvieux, Benjamin Gomez, Justine Herbel. Distributed by velvetyne.fr.<br>Développement du site pour faire le site : Gu",
+      "content": "Charlotte Beltzung © 2015-2026<br>Typo :&nbsp;<i>Enby Gertrude</i> – Valentin Chauveau et Léna Salabert-Triby. Typothèque Bye Bye Binary<br>Développement du site pour faire le site : Gu",
       "x": 0,
       "y": 1168,
       "width": 1080,
       "style": {
-        "fontFamily": "Director Regular",
+        "fontFamily": "Enby Gertrude roman",
         "fontSize": 10,
         "textAlign": "center"
       },
@@ -156,7 +156,8 @@
       "style": {
         "fontWeight": 400,
         "color": "#c7fcfe",
-        "fontSize": 55
+        "fontSize": 55,
+        "fontFamily": "Enby Gertrude roman"
       },
       "link": {
         "type": "page",
@@ -261,7 +262,7 @@
     },
     "typography": {
       "fontSize": 50,
-      "fontFamily": "Director Regular"
+      "fontFamily": "Enby Gertrude roman"
     }
   },
   "mobile": {
