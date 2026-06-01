@@ -1,7 +1,13 @@
 {
   "generatedFiles": [
     "styles.css",
-    "accueil/index.html",
+    "index.html",
+    "infos/index.html",
+    "cv/index.html",
+    "textes/index.html",
+    "editions/index.html",
+    "hehe/index.html",
+    "shop/index.html",
     ".gucms-build-manifest.json"
   ]
 }
