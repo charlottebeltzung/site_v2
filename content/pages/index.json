@@ -20,7 +20,8 @@
       "y": 104,
       "width": 128,
       "aspectRatio": 0.6488413547237076,
-      "hoverSrc": "assets/images/2231b42812bc0bb3.png"
+      "hoverSrc": "assets/images/2231b42812bc0bb3.png",
+      "link": null
     },
     {
       "id": "5fe44d20-ec77-45d3-9b34-711eb3a9e10d",
@@ -134,7 +135,8 @@
       "y": 584,
       "width": 288,
       "aspectRatio": 1.0639074863055387,
-      "hoverSrc": "assets/images/f5c5bf6e6a52b2b7.png"
+      "hoverSrc": "assets/images/f5c5bf6e6a52b2b7.png",
+      "link": null
     },
     {
       "id": "2a97a05c-0b4a-4922-881b-4a4889eb08a1",
