@@ -109,6 +109,17 @@
         "type": "page",
         "target": "shop"
       }
+    },
+    {
+      "id": "2d2cf596-6b9e-4976-b35d-854674d6bd1c",
+      "type": "text",
+      "content": "♡‧₊˚✧ ૮ ˶ᵔ ᵕ ᵔ˶ ა ✧˚₊‧♡<br>page en construction&nbsp;",
+      "x": 240,
+      "y": 352,
+      "width": 568,
+      "style": {
+        "textAlign": "center"
+      }
     }
   ],
   "style": {
