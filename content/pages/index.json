@@ -256,15 +256,6 @@
         "type": "page",
         "target": "shop"
       }
-    },
-    {
-      "id": "01413daf-ae4b-4c5d-a94b-f48bf4277868",
-      "type": "image",
-      "src": "assets/images/7c8d920f62d84755.png",
-      "x": 352,
-      "y": 100,
-      "width": 400,
-      "aspectRatio": 1.0139275766016713
     }
   ],
   "style": {
@@ -280,7 +271,6 @@
     "overrides": {},
     "order": [
       "2cfce991-9e2d-4e38-96de-de9f708f6d59",
-      "01413daf-ae4b-4c5d-a94b-f48bf4277868",
       "b93ff44a-33c0-479b-9b1e-a15dd2b14f9c",
       "ddbe6708-f2ee-4a0d-8244-897e764ec7b5",
       "772bcdea-447b-4ffe-bf41-00d6d46cdddc",
